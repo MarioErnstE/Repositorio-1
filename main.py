@@ -1,1 +1,1 @@
-print("Hello world")
+print("Wena los cabros de algoritmos")
